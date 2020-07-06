@@ -1,0 +1,100 @@
+<RCC>
+  <qresource prefix="/newPrefix">
+    <file>icon/hash-file.png</file>
+    <file>icon/xml.png</file>
+    <file>icon/file.png</file>
+    <file>icon/down.png</file>
+    <file>icon/up.png</file>
+    <file>icon/back.png</file>
+    <file>icon/my-computer-computer-icon.png</file>
+    <file>icon/866-8666305_schedule-icon-green-icons-for-report-schedule.png</file>
+    <file>icon/stop-icon-11-256.png</file>
+    <file>icon/Folder-Default-icon.png</file>
+    <file>icon/folder (1).png</file>
+    <file>icon/66241-cremation-grandon-funeral-cemetery-system-lunning-home.png</file>
+    <file>icon/aed.png</file>
+    <file>icon/Utimaco_downloads_icon-300x300.png</file>
+    <file>icon/antivirus2.png</file>
+    <file>icon/frame_rate.png</file>
+    <file>icon/firewall2.png</file>
+    <file>icon/internet_connection.png</file>
+    <file>icon/stats_histogram.png</file>
+    <file>icon/security_2.png</file>
+    <file>icon/white_list.png</file>
+    <file>icon/warning.png</file>
+    <file>icon/responsive.png</file>
+    <file>icon/pdf-icon.png</file>
+    <file>icon/Microsoft-PowerPoint-2010-icon.png</file>
+    <file>icon/Word-icon.png</file>
+    <file>icon/Excel-Icon-300x300.png</file>
+    <file>icon/firefox-logo-icon-15.png</file>
+    <file>icon/VMware_Workstation_11.0_icon.png</file>
+    <file>icon/app_chorme.png</file>
+    <file>icon/start.png</file>
+    <file>icon/unnamed.png</file>
+    <file>image/5.png</file>
+    <file>icon/disk.png</file>
+    <file>icon/file-1294459_1280.png</file>
+    <file>icon/cd.png</file>
+    <file>icon/folder.png</file>
+    <file>image/background-ips.jpg</file>
+    <file>icon/gear.png</file>
+    <file>icon/close.png</file>
+    <file>icon/hard_disk.png</file>
+    <file>icon/wallet .png</file>
+    <file>icon/firewall.png</file>
+    <file>icon/local_network.png</file>
+    <file>icon/map location.png</file>
+    <file>icon/paper_plane_1.png</file>
+    <file>icon/open_book.png</file>
+    <file>icon/pen_drive.png</file>
+    <file>icon/pie_chart.png</file>
+    <file>icon/research.png</file>
+    <file>icon/resume.png</file>
+    <file>icon/umbrela.png</file>
+    <file>icon/transfer_data.png</file>
+    <file>icon/server.png</file>
+    <file>icon/web_search.png</file>
+    <file>icon/location.png</file>
+    <file>icon/card.png</file>
+    <file>image/background.jpg</file>
+    <file>icon/ssh-512.png</file>
+    <file>icon/check.png</file>
+    <file>icon/highlights (1).png</file>
+    <file>icon/checkbox.png</file>
+    <file>icon/scan_folder.png</file>
+    <file>icon/setting.png</file>
+    <file>icon/help.png</file>
+    <file>icon/monitor.png</file>
+    <file>icon/arrowhead_left.png</file>
+    <file>icon/cart.png</file>
+    <file>icon/customers.png</file>
+    <file>icon/forbidden (5).png</file>
+    <file>icon/forbidden (3).png</file>
+    <file>icon/forbidden.png</file>
+    <file>icon/check_mark.png</file>
+    <file>image/internet-security-icon-png-25.png</file>
+    <file>icon/refresh.png</file>
+    <file>image/background-header.jpg</file>
+    <file>icon/zoom (1).png</file>
+    <file>icon/zoom (1).png</file>
+    <file>icon/add.png</file>
+    <file>icon/zoom.png</file>
+    <file>icon/forbidden (2).png</file>
+    <file>icon/connect _in.png</file>
+    <file>icon/connect.png</file>
+    <file>icon/folder.png</file>
+    <file>icon/function.png</file>
+    <file>icon/gear.png</file>
+    <file>icon/home.png</file>
+    <file>icon/info.png</file>
+    <file>icon/log.png</file>
+    <file>icon/information.png</file>
+    <file>icon/network.png</file>
+    <file>icon/screen_zoom_out.png</file>
+    <file>icon/sign_in (1).png</file>
+    <file>icon/symmetric_network.png</file>
+    <file>icon/tool.png</file>
+    <file>icon/wall.png</file>
+  </qresource>
+</RCC>
